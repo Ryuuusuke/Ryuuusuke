@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm Coding for FUN ! ✨
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuuusuke&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E"/>
 <!--
