@@ -1,6 +1,6 @@
 <b>I'm Coding for FUN ! ✨</b>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuuusuke&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **Ryuuusuke/Ryuuusuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
