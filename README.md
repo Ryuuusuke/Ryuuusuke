@@ -1,9 +1,4 @@
 # Stats
-
-<p align="center">
-  <img src="https://www.codewars.com/users/Ryuuusuke/badges/large" alt="Codewars Badge">
-</p>
-
 <img width="495" height="190" src="https://github-readme-stats-one-bice.vercel.app/api?username=Ryuuusuke&include_all_commits=true&show_icons=true&title_color=EB3678&text_color=EB3678&icon_color=EB3678&hide_border=true&bg_color=00000000"/> <img width="300" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuuusuke&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&hide=css,makefile&title_color=EB3678&text_color=EB3678&hide_border=true&bg_color=00000000"/>
 
 
